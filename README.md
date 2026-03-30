@@ -10,6 +10,8 @@ This is a 3D-printable holder designed to integrate a micro:bit and its battery 
 By placing the battery box on the lower side, the design improves grip and usability, making it suitable for applications such as wireless controllers.
 Even when the holder is attached, the reset button of the micro:bit remains accessible, and crocodile clips can be connected to the edge connector.
 
+<img src="images/overview.png" width="400">
+
 ---
 
 ## 対応機器 / Compatible Devices
@@ -63,7 +65,7 @@ micro:bitのスロットの奥側（挿入時に突き当たる側）を下と�
 Please refer to the image below for the recommended print orientation.
 The bottom is defined as the end of the micro:bit insertion slot, where the board stops.
 
-![Print Orientation](images/print_orientation.png)
+<img src="images/print_orientation.png" width="400">
 
 ---
 
