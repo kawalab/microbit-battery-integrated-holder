@@ -1,12 +1,12 @@
-# micro:bit & Battery Integrated Holder
+# micro:bit & Battery Integrated Holder 
 
 ## 概要 / Overview
 
-micro:bitと電池ボックスを一体化するための3Dプリント用ホルダーです。
+micro:bitと電池ボックスを一体化するための、3Dプリントで製作可能なホルダーです。
 電池ボックスを下側に配置することで、手で持ちやすく、無線コントローラ用途などに適した形状になっています。
 また、ホルダー装着時でもmicro:bitのリセットボタンを押すことができ、エッジコネクターにはワニ口クリップを接続できます。
 
-This is a 3D printable holder designed to integrate a micro:bit and its battery box into a single unit.
+This is a 3D-printable holder designed to integrate a micro:bit and its battery box into a single unit.
 By placing the battery box on the lower side, the design improves grip and usability, making it suitable for applications such as wireless controllers.
 Even when the holder is attached, the reset button of the micro:bit remains accessible, and crocodile clips can be connected to the edge connector.
 
