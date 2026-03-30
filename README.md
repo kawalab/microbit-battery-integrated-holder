@@ -137,7 +137,7 @@ The bottom is defined as the end of the micro:bit insertion slot, where the boar
 
 * Suggested attribution:
 
-  * Author: K.I.T. Kawanami Lab
+  * Author: Kawanami Lab, Kanazawa Institute of Technology
   * Source: https://github.com/kawalab/microbit-battery-integrated-holder/
   * License: CC BY 4.0
 
