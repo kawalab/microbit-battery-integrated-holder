@@ -10,7 +10,7 @@ This is a 3D-printable holder designed to integrate a micro:bit and its battery 
 By placing the battery box on the lower side, the design improves grip and usability, making it suitable for applications such as wireless controllers.
 Even when the holder is attached, the reset button of the micro:bit remains accessible, and crocodile clips can be connected to the edge connector.
 
-<img src="images/overview.png" width="400">
+<img src="images/overview.png" width="450">
 
 ---
 
