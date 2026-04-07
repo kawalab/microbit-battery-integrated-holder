@@ -71,9 +71,9 @@ The bottom is defined as the end of the micro:bit insertion slot, where the boar
 
 ## ファイル / Files
 
-* `model_plain.stl`：ロゴなし / without KIT logo (for general use)
+* `model_plain.stl`：ロゴなし / without KIT logo (standard version)
 
-* `model_logo.stl`：KITロゴ入り / with KIT logo (for educational or display use)
+* `model_logo.stl`：KITロゴ入り / with KIT logo (branded version)
   
 ---
 
