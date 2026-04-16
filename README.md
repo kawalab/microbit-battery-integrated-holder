@@ -17,16 +17,16 @@ Even when the holder is attached, the reset button of the micro:bit remains acce
 ## 対応機器 / Compatible Devices
 
 * micro:bit V1 / V2
-* 電池ボックス（単4電池×2）※ 以下で検証済み  
-  Battery box (2 × AAA batteries), tested with:
+* 電池ボックス（単4電池×2）※ 以下で動作確認済み  
+  Battery box (2 × AAA batteries), tested with the following:
 
-  * Switch Education（スイッチ付き / with on/off switch）  
+  * Switch Education SEDU-052771（スイッチ付き / with on/off switch）  
     https://switch-education.com/products/microbit-battery-cage/
 
-  * RS Components（Micro:bit Educational Foundation純正アクセサリ、スイッチ付き / official micro:bit accessory with on/off switch）  
+  * RS Components MEFBATSV1SW（Micro:bit Educational Foundation純正アクセサリ、スイッチ付き / official micro:bit accessory with on/off switch）  
     https://jp.rs-online.com/web/p/bbc-micro-bit-add-ons/2648952
 
-  * RS Components（Micro:bit Educational Foundation純正アクセサリ、スイッチなし / official micro:bit accessory without on/off switch）  
+  * RS Components MEFBATUV1（Micro:bit Educational Foundation純正アクセサリ、スイッチなし / official micro:bit accessory without on/off switch）  
     https://jp.rs-online.com/web/p/bbc-micro-bit-add-ons/2648953
 
 同様のサイズ・形状の電池ボックスでも使用できる可能性がありますが、寸法や形状には製品ごとの差があるため、すべての製品での互換性を保証するものではありません。
